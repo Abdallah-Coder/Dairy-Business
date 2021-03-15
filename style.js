@@ -36,9 +36,12 @@ function shedA(litres, shillings){
  }
  console.log(TotalProduce)
 
- var TotalAmountinallSheds=TotalAmountinallSheds((510, 45)(308, 45)(486, 45)(572, 45)(486,45));
- document.getElementById("violet") .innerHTML= "Total Amount in All Sheds:" + TotalAmountinallSheds;
- function TotalProduce(litres, shillings){
+ 
+
+
+ var weeklyincome=weeklyincome(1876, 45);
+ document.getElementById("one") .innerHTML= "Weekly Income:" + weeklyincome;
+ function weeklyincome(litres, shillings){
      return litres*shillings
  }
- console.log(TotalAmountinallSheds)
+console.log(weeklyincome)

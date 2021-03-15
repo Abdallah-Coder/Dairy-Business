@@ -1,5 +1,11 @@
-#shed{
-    display: flex;
-    height: auto;
-    margin: ;
+#header{
+    background-color: indigo;
+    text-align: center;
+}
+.sheds{
+    background-color: lightgreen;
+    width: 300px;
+    border: 150px solid green;
+    padding: 500px;
+    margin: 100px;
 }
