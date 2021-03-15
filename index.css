@@ -1,11 +1,30 @@
-#header{
+.header{
     background-color: indigo;
     text-align: center;
+    font-size: 50px;
 }
 .sheds{
-    background-color: lightgreen;
-    width: 300px;
-    border: 150px solid green;
-    padding: 500px;
-    margin: 100px;
+    background-color: white;
+    width: 150px;
+    border: 50px solid lightgreen;
+    padding: 50px;
+    margin: 50px;
+}
+
+.fire{
+background-color:white;
+width: 150px;
+border: 50px solid lightgreen;
+padding: 50px;
+margin: 50px;
+
+}
+
+.report{
+    background-color: white;
+    width: 150px;
+    border: 50px solid lightgreen;
+    padding: 50px;
+    margin: 50px;
+    
 }
